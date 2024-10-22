@@ -1,3 +1,5 @@
+import java.util.List;
+
 public class GestorAutores {
     private List<Autor> listaAutores;
     private AutoresDAO autoresDAO;
